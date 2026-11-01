@@ -1,0 +1,5 @@
+
+Age,Sex,Symptoms,Duration,Severity,Medical_History
+22,Female,"Fever, cough and sore throat",2 days,Mild,None
+35,Male,"Headache and fatigue",1 day,Mild,None
+45,Female,"Cough and chest discomfort",3 days,Moderate,Not provided
